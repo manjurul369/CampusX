@@ -27,17 +27,17 @@ Make sure you have the following installed:
 - Jupyter Notebook or JupyterLab
 - Recommended: Create a virtual environment
 
-##📺 Source of Learning
+## 📺 Source of Learning
 All tutorials and explanations are from the [CampusX YouTube Channel](https://www.youtube.com/@campusx-official) taught by Nitish.
 Check out the channel for high-quality videos on machine learning, deep learning, Python, and real-world projects.
 
-##🙌 Contributing
+## 🙌 Contributing
 This is a personal learning project, but feel free to fork or suggest improvements. Pull requests are welcome!
 
-##📝 License
+## 📝 License
 This repository is for educational purposes only. Content is based on publicly available tutorials by CampusX.
 
-##📫 Contact
+## 📫 Contact
 If you'd like to connect or ask questions:
 
 GitHub: https://github.com/manjurul369/
