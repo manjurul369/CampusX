@@ -1,6 +1,6 @@
 # CampusX
 
-A collection of Jupyter Notebooks from my learning journey through the [CampusX](https://www.youtube.com/@CampusX) YouTube channel, where instructor **Nitish** explains key topics in data science, machine learning, deep learning, and more.
+A collection of Jupyter Notebooks from my learning journey through the [CampusX](https://www.youtube.com/@campusx-official) YouTube channel, where instructor **Nitish** explains key topics in data science, machine learning, deep learning, and more.
 
 ---
 
@@ -13,9 +13,6 @@ Whether you're learning alongside me or just browsing, feel free to explore, clo
 ---
 
 ## 📂 Repository Structure
-
-CampusX/ │ ├── ML_Basics/ │ ├── 01_linear_regression.ipynb │ ├── 02_logistic_regression.ipynb │ └── ... │ ├── DL_Basics/ │ ├── 01_neural_nets_intro.ipynb │ └── ... │ ├── Projects/ │ ├── house_price_prediction.ipynb │ └── ... │ └── README.md
-
 
 *Folders and notebooks will be updated as I progress through the content.*
 
@@ -30,3 +27,19 @@ Make sure you have the following installed:
 - Jupyter Notebook or JupyterLab
 - Recommended: Create a virtual environment
 
+##📺 Source of Learning
+All tutorials and explanations are from the CampusX YouTube Channel taught by Nitish.
+Check out the channel for high-quality videos on machine learning, deep learning, Python, and real-world projects.
+
+##🙌 Contributing
+This is a personal learning project, but feel free to fork or suggest improvements. Pull requests are welcome!
+
+##📝 License
+This repository is for educational purposes only. Content is based on publicly available tutorials by CampusX.
+
+##📫 Contact
+If you'd like to connect or ask questions:
+
+GitHub: (https://www.youtube.com/@campusx-official)
+
+LinkedIn: YourLinkedIn
